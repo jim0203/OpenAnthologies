@@ -1,0 +1,30 @@
+% This is intended to be a common driver file for all OA projects. Might be created on the fly based on
+% e.g. the flags that are used when the bash scripts are run.
+
+\usepackage{lmodern}
+\usepackage{fancyhdr,multicol,geometry,ifthen,keyval}
+\usepackage{attrib, hyperref}
+\usepackage[greek,english]{babel}
+
+\usepackage{poemscol}
+
+% Comment this out to remove crop marks, which are design for B5 pages:
+% \usepackage[cam, axes, frame, cross, a4, center]{crop}
+
+% Comment out one of these lines depending on whether you're using splitidx or makeidx
+%\usepackage[makeindex]{splitidx}
+%\usepackage{imakeidx}
+
+% Setup the indexing. Comment out relevant lines depending on whether indexing is done by splitidx or makeidx
+
+%\newindex[Index of Titles]{idx}
+%\newindex[Index of First Lines]{fir}
+
+%\makeindex
+%\indexingontrue
+
+\begin{document}
+
+% Line numbering for verse
+\setverselinemodulo{5}
+\verselinenumberstoright
