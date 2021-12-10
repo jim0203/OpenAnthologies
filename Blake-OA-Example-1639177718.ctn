@@ -105,56 +105,10 @@ Sorrow}
 \begin{contentsentryenvironment}
 \contentspoemtitleindent
 {\contentspoemtitlefont
-A
-Song}
-\contentsleaders
-\pageref{poem7}
-\end{contentsentryenvironment}
-\par
-\setlength\contentsentryoverrun{\contentsindentoneamount}
-\setlength\contentsentryoverrun{\contentspoemtitleindentamount }
-\begin{contentsentryenvironment}
-\contentspoemtitleindent
-{\contentspoemtitlefont
-The
-Little
-Girl
-Lost}
-\contentsleaders
-\pageref{poem8}
-\end{contentsentryenvironment}
-\par
-\setlength\contentsentryoverrun{\contentsindentoneamount}
-\setlength\contentsentryoverrun{\contentspoemtitleindentamount }
-\begin{contentsentryenvironment}
-\contentspoemtitleindent
-{\contentspoemtitlefont
-Earth's
-Answer}
-\contentsleaders
-\pageref{poem9}
-\end{contentsentryenvironment}
-\par
-\setlength\contentsentryoverrun{\contentsindentoneamount}
-\setlength\contentsentryoverrun{\contentspoemtitleindentamount }
-\begin{contentsentryenvironment}
-\contentspoemtitleindent
-{\contentspoemtitlefont
-The
-Tyger}
-\contentsleaders
-\pageref{poem10}
-\end{contentsentryenvironment}
-\par
-\setlength\contentsentryoverrun{\contentsindentoneamount}
-\setlength\contentsentryoverrun{\contentspoemtitleindentamount }
-\begin{contentsentryenvironment}
-\contentspoemtitleindent
-{\contentspoemtitlefont
 The
 Chimney-Sweeper}
 \contentsleaders
-\pageref{poem11}
+\pageref{poem7}
 \end{contentsentryenvironment}
 \par
 \setlength\contentsentryoverrun{\contentsindentoneamount}
@@ -166,7 +120,7 @@ The
 Echoing
 Green}
 \contentsleaders
-\pageref{poem12}
+\pageref{poem8}
 \end{contentsentryenvironment}
 \par
 \setlength\contentsentryoverrun{\contentsindentoneamount}
@@ -179,7 +133,7 @@ Little
 Girl
 Found}
 \contentsleaders
-\pageref{poem13}
+\pageref{poem9}
 \end{contentsentryenvironment}
 \par
 \setlength\contentsentryoverrun{\contentsindentoneamount}
@@ -192,7 +146,7 @@ Little
 Girl
 Lost}
 \contentsleaders
-\pageref{poem14}
+\pageref{poem10}
 \end{contentsentryenvironment}
 \par
 \setlength\contentsentryoverrun{\contentsindentoneamount}
@@ -203,7 +157,7 @@ Lost}
 The
 Tyger}
 \contentsleaders
-\pageref{poem15}
+\pageref{poem11}
 \end{contentsentryenvironment}
 \par
 \setlength\contentsentryoverrun{\contentsindentoneamount}

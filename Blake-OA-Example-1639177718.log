@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.16)  10 DEC 2021 22:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.16)  10 DEC 2021 23:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Blake-OA-Example-1639177098.tex
-(./Blake-OA-Example-1639177098.tex
+**Blake-OA-Example-1639177718.tex
+(./Blake-OA-Example-1639177718.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -258,10 +258,10 @@ Package: poemscol 2020/06/12 v3.1415926 poemscol file
 \titlesofar=\toks18
 \titleincrement=\toks19
 \@indexfile=\write3
-\openout3 = `Blake-OA-Example-1639177098.idx'.
+\openout3 = `Blake-OA-Example-1639177718.idx'.
 
 
-Writing index file Blake-OA-Example-1639177098.idx
+Writing index file Blake-OA-Example-1639177718.idx
 \headoffsetlength=\skip118
 
 Package fancyhdr Warning: \fancyhfoffset's `E' option without twoside option is
@@ -370,8 +370,8 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count294
 \l__pdf_internal_box=\box93
 )
-(./Blake-OA-Example-1639177098.aux)
-\openout1 = `Blake-OA-Example-1639177098.aux'.
+(./Blake-OA-Example-1639177718.aux)
+\openout1 = `Blake-OA-Example-1639177718.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
@@ -426,7 +426,7 @@ LaTeX Font Info:    ... okay on input line 30.
 
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Blake-OA-Example-1639177098.ctn
+(./Blake-OA-Example-1639177718.ctn
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 19.
@@ -457,26 +457,25 @@ Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 46.
 
 \poemcontents=\write4
-\openout4 = `Blake-OA-Example-1639177098.ctn'.
+\openout4 = `Blake-OA-Example-1639177718.ctn'.
 
 (./Blake-ASong.tex) (./Blake-EarthsAnswer.tex [1
 
 ]) (./Blake-Introduction.tex
 [2]) (./Blake-Night.tex [3]) (./Blake-OnAnothersSorrow.tex [4])
-(./Blake-TheCat.tex [5] [6] [7]) (./Blake-TheChimney-Sweeper.tex [8])
-(./Blake-TheEchoingGreen.tex) (./Blake-TheLittleGirlFound.tex [9] [10])
-(./Blake-TheLittleGirlLost.tex [11]) (./Blake-TheTyger.tex [12]) [13]
-(./Blake-OA-Example-1639177098.aux
+(./Blake-TheChimney-Sweeper.tex) (./Blake-TheEchoingGreen.tex [5])
+(./Blake-TheLittleGirlFound.tex [6] [7]) (./Blake-TheLittleGirlLost.tex
+[8]) (./Blake-TheTyger.tex [9]) [10] (./Blake-OA-Example-1639177718.aux
 
 Package mparhack Warning: Marginpars may have changed.
 (mparhack)                Rerun to get them right.
 
 ) ) 
 Here is how much of TeX's memory you used:
- 2844 strings out of 478994
- 51381 string characters out of 5858184
- 355043 words of memory out of 5000000
- 20324 multiletter control sequences out of 15000+600000
+ 2833 strings out of 478994
+ 51245 string characters out of 5858184
+ 355003 words of memory out of 5000000
+ 20316 multiletter control sequences out of 15000+600000
  425351 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,74p,209b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -486,10 +485,10 @@ Here is how much of TeX's memory you used:
 st/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
 pe1/public/lm/lmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/l
 m/lmr9.pfb>
-Output written on Blake-OA-Example-1639177098.pdf (15 pages, 145160 bytes).
+Output written on Blake-OA-Example-1639177718.pdf (12 pages, 140979 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
