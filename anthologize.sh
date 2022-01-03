@@ -18,13 +18,15 @@ cat Driver-Blake.tex >> $filename
 echo >> $filename
 echo >> $filename
 
-for file in "$@"
+# Loop over every file in the "texts" subfolder
+find "texts" -type f | while read file
 do
-    textinputline="\\input{\""
-    textinputline+=$file
-    textinputline+="\"}"
-    echo $file
-    echo $textinputline >> $filename
+  echo $file
+  textinputline="\\input{\""
+  textinputline+=$file
+  textinputline+="\"}"
+  echo $file
+  echo $textinputline >> $filename
 done
 
 echo >> $filename
