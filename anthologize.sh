@@ -32,8 +32,8 @@ echo "\\end{document}" >> $filename
 
 echo $filename
 
-latex $filename
-pdflatex $filename
+lualatex $filename
+lualatex $filename
 
 pdffile="$project$timestamp"
 pdffile+=".pdf"
